@@ -32,7 +32,7 @@
         {
             "label": "about me ",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "aboutme",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
