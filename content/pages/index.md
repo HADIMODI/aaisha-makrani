@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+
+
+      Spirituality is the pursuit of a deeper connection to something greater
+      than oneself, often involving a sense of meaning, purpose, or inner peace.
+      It can relate to personal beliefs, practices, or experiences,
+
     actions:
       - label: Get started
         altText: ''
