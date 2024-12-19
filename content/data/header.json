@@ -46,7 +46,7 @@
                     "type": "Link",
                     "label": "Instagram",
                     "altText": "Instagram",
-                    "url": "/https://www.instagram.com/aaisha.makrani",
+                    "url": "https://www.instagram.com/aaisha.makrani",
                     "showIcon": true,
                     "icon": "instagram",
                     "iconPosition": "left",
