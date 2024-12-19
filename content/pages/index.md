@@ -130,7 +130,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://youtu.be/FkmsOKYOf0o?si=wgc67t48WyIMI3zw'
       autoplay: true
       loop: true
       muted: true
