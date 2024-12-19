@@ -30,7 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "about me ",
+            "label": "About Me ",
             "altText": "Careers page",
             "url": "aboutme",
             "icon": "arrowRight",
