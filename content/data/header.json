@@ -41,7 +41,19 @@
         {
             "label": "Contact",
             "altText": "Contact",
-            "links": [],
+            "links": [
+                {
+                    "type": "Link",
+                    "label": "Instagram",
+                    "altText": "Instagram",
+                    "url": "/https://www.instagram.com/aaisha.makrani",
+                    "showIcon": true,
+                    "icon": "instagram",
+                    "iconPosition": "left",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
             "labelStyle": "secondary",
             "type": "SubNav"
         }
