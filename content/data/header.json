@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "spirituality",
-            "url": "/pricing",
+            "url": "/spirituality",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
