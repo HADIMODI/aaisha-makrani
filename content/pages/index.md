@@ -69,11 +69,21 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      **Reiki** is a Japanese energy healing practice where practitioners use
+      their hands to channel energy into a person's body to promote relaxation,
+      balance, and healing.
+
+
+      **Meditation** is a mental practice of focusing the mind, often on the
+      breath or a specific thought, to achieve relaxation, clarity, and
+      emotional well-being.
+
+
+      Both aim to reduce stress and improve overall health.
+
+
+
     media:
       title: Title of the video
       url: ''
