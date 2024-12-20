@@ -127,7 +127,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: ''
     text: >+
       **Yoga** is a holistic practice that combines physical postures, breathing
       techniques, meditation, and ethical principles to improve flexibility,
