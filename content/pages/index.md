@@ -128,11 +128,12 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      **Yoga** is a holistic practice that combines physical postures, breathing
+      techniques, meditation, and ethical principles to improve flexibility,
+      strength, mental clarity, and overall well-being. It promotes harmony
+      between the body, mind, and spirit.
+
     actions: []
     media:
       title: Title of the video
