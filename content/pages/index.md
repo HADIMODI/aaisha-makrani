@@ -164,7 +164,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: 'Yoga '
+      text: Yoga Poses
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
