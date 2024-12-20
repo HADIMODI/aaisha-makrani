@@ -171,14 +171,7 @@ sections:
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
-    actions:
-      - label: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/yoda.jpg
       altText: Fun feature preview
