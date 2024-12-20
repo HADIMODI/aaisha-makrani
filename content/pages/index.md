@@ -126,7 +126,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: ''
+      url: 'Galaxy Motion Background Video [HD] ~ FREE'
       autoplay: true
       loop: true
       muted: true
