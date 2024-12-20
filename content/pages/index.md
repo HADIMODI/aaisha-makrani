@@ -186,14 +186,7 @@ sections:
     subtitle: Be in good company
     text: |
       more about me in my blogs and about every thing coming soon
-    actions:
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
+    actions: []
     media:
       url: /images/pop.jpg
       altText: Dope design preview
