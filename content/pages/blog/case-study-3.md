@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: Yoga
 slug: case-study-3
 date: ''
 excerpt: >-
