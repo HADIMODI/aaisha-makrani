@@ -187,12 +187,6 @@ sections:
     text: |
       more about me in my blogs and about every thing coming soon
     actions:
-      - label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        type: Button
       - label: See Tutorials
         url: /
         showIcon: true
