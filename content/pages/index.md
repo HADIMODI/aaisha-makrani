@@ -183,7 +183,7 @@ sections:
       text: 'About Me '
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: ''
     text: |
       more about me in my blogs and about every thing coming soon
     actions: []
