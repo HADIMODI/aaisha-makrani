@@ -167,7 +167,7 @@ sections:
       text: Yoga Poses
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: ''
     text: ''
     actions: []
     media:
