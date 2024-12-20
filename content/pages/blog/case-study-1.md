@@ -1,5 +1,5 @@
 ---
-title: Case study 1
+title: Meditation
 slug: case-study-1
 date: ''
 excerpt: >-
