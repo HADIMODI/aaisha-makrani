@@ -121,7 +121,7 @@ sections:
     type: GenericSection
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: What IS Yoga
       color: text-dark
       styles:
         self:
