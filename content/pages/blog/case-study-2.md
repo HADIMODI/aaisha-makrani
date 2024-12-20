@@ -1,5 +1,5 @@
 ---
-title: Case study 2
+title: reiki
 slug: case-study-2
 date: ''
 excerpt: >-
