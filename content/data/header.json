@@ -13,15 +13,6 @@
     },
     "primaryLinks": [
         {
-            "label": "Spirituality",
-            "url": "/Spirituality",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "altText": "Spirituality"
-        },
-        {
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
