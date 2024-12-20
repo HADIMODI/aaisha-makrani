@@ -6,16 +6,7 @@
     },
     "text": "Aaisha Make Your Mind Cool\n",
     "socialLinks": [],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer",
