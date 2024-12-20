@@ -174,10 +174,6 @@ sections:
       url: /images/yoda.jpg
       altText: Fun feature preview
       type: ImageBlock
-    badge:
-      label: This is a badge
-      color: text-primary
-      type: Badge
     colors: bg-neutral-fg-dark
     styles:
       self:
